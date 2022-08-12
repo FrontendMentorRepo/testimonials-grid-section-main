@@ -39,8 +39,13 @@ body {
     height: 100px;
     left: 35%;
     top: 13%;
-    z-index: 2;
+    z-index:1 ;
     
+}
+
+.test{
+    position:relative;
+    z-index: 2;
 }
 .part2{
     grid-column: 3;
